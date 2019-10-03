@@ -21,7 +21,7 @@ LIRI is a Language Interpretation Recognition Interface. LIRI will be a command 
 
 Output: The system will display a list of all of the events and locations where the artist or band will perform. The system will also log this information in the log.txt file. 
 
-![Image of Concert-This](/screenshots/concert-this.png)
+<img src="/screenshots/concert-this.png">
 
 **Example 2:** Run the `spotify-this-song` command
 
