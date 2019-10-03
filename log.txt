@@ -674,3 +674,481 @@ Language: English, Swedish, Italian
 Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
 *****************************
+******EVENTS INFO**********
+0
+Name of the Venue: Revention Music Center
+Venue Location: Houston
+Event Date: 2019-10-04T20:00:00
+*****************************
+******EVENTS INFO**********
+1
+Name of the Venue: South Side Ballroom
+Venue Location: Dallas
+Event Date: 2019-10-05T20:00:00
+*****************************
+******EVENTS INFO**********
+2
+Name of the Venue: Austin City Limits Music Festival
+Venue Location: Austin
+Event Date: 2019-10-06T12:00:00
+*****************************
+******EVENTS INFO**********
+3
+Name of the Venue: The Pageant
+Venue Location: St. Louis
+Event Date: 2019-10-08T19:00:00
+*****************************
+******EVENTS INFO**********
+4
+Name of the Venue: The Armory
+Venue Location: Minneapolis
+Event Date: 2019-10-09T19:00:00
+*****************************
+******EVENTS INFO**********
+5
+Name of the Venue: The Sylvee
+Venue Location: Madison
+Event Date: 2019-10-10T19:00:00
+*****************************
+******EVENTS INFO**********
+6
+Name of the Venue: The Armory
+Venue Location: Minneapolis
+Event Date: 2019-10-11T20:00:00
+*****************************
+******EVENTS INFO**********
+7
+Name of the Venue: Austin City Limits Music Festival
+Venue Location: Austin
+Event Date: 2019-10-13T12:00:00
+*****************************
+******EVENTS INFO**********
+8
+Name of the Venue: Fillmore Auditorium
+Venue Location: Denver
+Event Date: 2019-10-15T19:00:00
+*****************************
+******EVENTS INFO**********
+9
+Name of the Venue: Fillmore Auditorium
+Venue Location: Denver
+Event Date: 2019-10-16T19:00:00
+*****************************
+******EVENTS INFO**********
+10
+Name of the Venue: Hollywood Palladium
+Venue Location: Los Angeles
+Event Date: 2019-10-18T19:00:00
+*****************************
+******EVENTS INFO**********
+11
+Name of the Venue: Hollywood Bowl
+Venue Location: Hollywood
+Event Date: 2019-10-19T18:00:00
+*****************************
+******EVENTS INFO**********
+12
+Name of the Venue: Hollywood Palladium
+Venue Location: Hollywood
+Event Date: 2019-10-20T19:30:00
+*****************************
+******EVENTS INFO**********
+13
+Name of the Venue: Hollywood Palladium
+Venue Location: Hollywood
+Event Date: 2019-10-21T19:30:00
+*****************************
+******EVENTS INFO**********
+14
+Name of the Venue: The Van Buren
+Venue Location: Phoenix
+Event Date: 2019-10-23T19:00:00
+*****************************
+******EVENTS INFO**********
+15
+Name of the Venue: Cal Coast Open Air Theater
+Venue Location: San Diego
+Event Date: 2019-10-24T19:00:00
+*****************************
+******EVENTS INFO**********
+16
+Name of the Venue: The Chelsea at the Cosmopolitan
+Venue Location: Las Vegas
+Event Date: 2019-10-25T19:00:00
+*****************************
+******EVENTS INFO**********
+17
+Name of the Venue: Bill Graham Civic Center
+Venue Location: San Francisco
+Event Date: 2019-10-27T19:00:00
+*****************************
+******EVENTS INFO**********
+18
+Name of the Venue: Bill Graham Civic Auditorium
+Venue Location: San Francisco
+Event Date: 2019-10-28T20:00:00
+*****************************
+******EVENTS INFO**********
+19
+Name of the Venue: Salle Pleyel
+Venue Location: Paris
+Event Date: 2019-11-04T20:00:00
+*****************************
+******EVENTS INFO**********
+20
+Name of the Venue: O2 Academy Brixton
+Venue Location: London
+Event Date: 2019-11-06T00:00:00
+*****************************
+******EVENTS INFO**********
+21
+Name of the Venue: O2 Academy Brixton
+Venue Location: London
+Event Date: 2019-11-07T19:00:00
+*****************************
+******EVENTS INFO**********
+22
+Name of the Venue: O2 Academy Glasgow
+Venue Location: Glasgow
+Event Date: 2019-11-08T00:00:00
+*****************************
+******EVENTS INFO**********
+23
+Name of the Venue: Olympia Theatre
+Venue Location: Dublin
+Event Date: 2019-11-10T19:00:00
+*****************************
+******EVENTS INFO**********
+24
+Name of the Venue: Victoria Warehouse
+Venue Location: Manchester
+Event Date: 2019-11-11T00:00:00
+*****************************
+******EVENTS INFO**********
+25
+Name of the Venue: Palladium
+Venue Location: Köln
+Event Date: 2019-11-13T20:00:00
+*****************************
+******EVENTS INFO**********
+26
+Name of the Venue: Columbiahalle
+Venue Location: Berlin
+Event Date: 2019-11-14T20:00:00
+*****************************
+******EVENTS INFO**********
+27
+Name of the Venue: TonHalle München
+Venue Location: München
+Event Date: 2019-11-15T20:00:00
+*****************************
+******EVENTS INFO**********
+28
+Name of the Venue: AFAS Live
+Venue Location: Amsterdam
+Event Date: 2019-11-18T20:00:00
+*****************************
+******EVENTS INFO**********
+29
+Name of the Venue: VEGA - Musikkens Hus, Store Vega
+Venue Location: København V
+Event Date: 2019-11-19T20:00:00
+*****************************
+******EVENTS INFO**********
+30
+Name of the Venue: Amalie Arena
+Venue Location: Tampa
+Event Date: 2019-12-01T19:00:00
+*****************************
+******EVENTS INFO**********
+31
+Name of the Venue: Dickies Arena
+Venue Location: Fort Worth
+Event Date: 2019-12-03T19:30:00
+*****************************
+******EVENTS INFO**********
+32
+Name of the Venue: SAP Center at San Jose
+Venue Location: San Jose
+Event Date: 2019-12-05T19:00:00
+*****************************
+******EVENTS INFO**********
+33
+Name of the Venue: The Forum
+Venue Location: Los Angeles
+Event Date: 2019-12-06T19:30:00
+*****************************
+******EVENTS INFO**********
+34
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Event Date: 2019-12-10T19:30:00
+*****************************
+******EVENTS INFO**********
+35
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Event Date: 2019-12-11T19:30:00
+*****************************
+******EVENTS INFO**********
+36
+Name of the Venue: Madison Square Garden
+Venue Location: New York
+Event Date: 2019-12-13T19:00:00
+*****************************
+******EVENTS INFO**********
+37
+Name of the Venue: TD Garden
+Venue Location: Boston
+Event Date: 2019-12-15T18:00:00
+*****************************
+*********SONG INFO*******0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=344bb9dadd5c4a269f13094889bbff5f
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+*********SONG INFO*******1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+*********SONG INFO*******2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=344bb9dadd5c4a269f13094889bbff5f
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+*********SONG INFO*******3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+*********SONG INFO*******4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=344bb9dadd5c4a269f13094889bbff5f
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+*********SONG INFO*******5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+*********SONG INFO*******6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+*********SONG INFO*******7
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+*********SONG INFO*******8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+*********SONG INFO*******9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+*********SONG INFO*******10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+*********SONG INFO*******11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=344bb9dadd5c4a269f13094889bbff5f
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+*********SONG INFO*******12
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+*********SONG INFO*******13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+*********SONG INFO*******14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=344bb9dadd5c4a269f13094889bbff5f
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+*********SONG INFO*******15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+*********SONG INFO*******16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+*********SONG INFO*******17
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=344bb9dadd5c4a269f13094889bbff5f
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+*********SONG INFO*******18
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+*********SONG INFO*******19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Boulevard You
+artist(s): CaryLamb
+*****************************
+*********MOVIE INFO*******
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+*****************************
+*********SONG INFO*******0
+song name: London Boy
+preview song: null
+album: Lover
+artist(s): Taylor Swift
+*****************************
+*********SONG INFO*******1
+song name: Boy With Luv (feat. Halsey)
+preview song: https://p.scdn.co/mp3-preview/d16797fb391fb909f3c46454d7cf89a2718f8171?cid=344bb9dadd5c4a269f13094889bbff5f
+album: MAP OF THE SOUL : PERSONA
+artist(s): BTS
+*****************************
+*********SONG INFO*******2
+song name: Alien Boy
+preview song: https://p.scdn.co/mp3-preview/397745124c6ac72d7991ded849f6a0d06a310b3c?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Alien Boy EP
+artist(s): Oliver Tree
+*****************************
+*********SONG INFO*******3
+song name: Bezerk (feat. A$AP Ferg & Hit-Boy)
+preview song: null
+album: Bezerk
+artist(s): Big Sean
+*****************************
+*********SONG INFO*******4
+song name: my boy
+preview song: null
+album: dont smile at me
+artist(s): Billie Eilish
+*****************************
+*********SONG INFO*******5
+song name: Be Honest (feat. Burna Boy)
+preview song: https://p.scdn.co/mp3-preview/55bfb31d5fbbc26818f8585c66911a5093642bc3?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Be Honest (feat. Burna Boy)
+artist(s): Jorja Smith
+*****************************
+*********SONG INFO*******6
+song name: Small Town Boy
+preview song: https://p.scdn.co/mp3-preview/9d148928a43a193fc46496e16c33576f9a520469?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Current Mood
+artist(s): Dustin Lynch
+*****************************
+*********SONG INFO*******7
+song name: This Feeling
+preview song: https://p.scdn.co/mp3-preview/c30eb8833d9d5e9bb377a0521fffc02b80388cf1?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Sick Boy
+artist(s): The Chainsmokers
+*****************************
+*********SONG INFO*******8
+song name: American Boy
+preview song: https://p.scdn.co/mp3-preview/c5ee61bf5c6c01d923aec35b6f52df76ac651bfb?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Shine
+artist(s): Estelle
+*****************************
+*********SONG INFO*******9
+song name: BOY BYE
+preview song: https://p.scdn.co/mp3-preview/ef0139248dd83735a3fc2d3d04157063053944e5?cid=344bb9dadd5c4a269f13094889bbff5f
+album: GINGER
+artist(s): BROCKHAMPTON
+*****************************
+*********SONG INFO*******10
+song name: See You Again
+preview song: https://p.scdn.co/mp3-preview/e9e8d9fce04ab59c61ed9708d9bee03910d5e205?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Flower Boy
+artist(s): Tyler, The Creator
+*****************************
+*********SONG INFO*******11
+song name: Broke As Fuck
+preview song: https://p.scdn.co/mp3-preview/26b166ec6ed2cdf881dbba5045945529b64baa12?cid=344bb9dadd5c4a269f13094889bbff5f
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+*********SONG INFO*******12
+song name: FEFE
+preview song: https://p.scdn.co/mp3-preview/975aa3227f4d06fba4cd0a3de39bd72e8acaed6e?cid=344bb9dadd5c4a269f13094889bbff5f
+album: DUMMY BOY
+artist(s): 6ix9ine
+*****************************
+*********SONG INFO*******13
+song name: Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+preview song: https://p.scdn.co/mp3-preview/2c529a40d846a04151fed237da99736e1a372e1c?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+artist(s): Martin Garrix
+*****************************
+*********SONG INFO*******14
+song name: Self Control
+preview song: https://p.scdn.co/mp3-preview/bd9dbaa54373aeb011113118048fac391d7e75e8?cid=344bb9dadd5c4a269f13094889bbff5f
+album: The Continuance
+artist(s): YoungBoy Never Broke Again
+*****************************
+*********SONG INFO*******15
+song name: Beamer Boy
+preview song: https://p.scdn.co/mp3-preview/5ebf8095176fa2b23bd85b35cc66a57759b68acb?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Beamer Boy
+artist(s): Lil Peep
+*****************************
+*********SONG INFO*******16
+song name: Slime Belief
+preview song: https://p.scdn.co/mp3-preview/52a053e5c1bcb8a138840979c686c2a86fd6f26c?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Realer
+artist(s): YoungBoy Never Broke Again
+*****************************
+*********SONG INFO*******17
+song name: Lost Boy
+preview song: https://p.scdn.co/mp3-preview/b8ad63b61e2af502b7a1bf4cff24c0d47b8d1674?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Lost Boy
+artist(s): Ruth B.
+*****************************
+*********SONG INFO*******18
+song name: Crank That (Soulja Boy)
+preview song: null
+album: souljaboytellem.com
+artist(s): Soulja Boy
+*****************************
+*********SONG INFO*******19
+song name: Behind Barz - Bonus
+preview song: https://p.scdn.co/mp3-preview/73e9e47faa119ff50413dc7068362cbc1aef6c65?cid=344bb9dadd5c4a269f13094889bbff5f
+album: Top Boy (A Selection of Music Inspired by the Series)
+artist(s): Drake
+*****************************

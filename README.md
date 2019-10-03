@@ -45,4 +45,15 @@ Ouput: The system will display the information associated with the movie that is
 
 Output: The system will read the text in the random.txt file, and perform the comman listed in the random.txt file.
 
-![Image of Do-What-It-Says](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/do-what-it-says.PNG?raw=true)
+![Image of Do-What-It-Says](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/do-what-it-says.PNG?raw=true) 
+
+**Gifs** 
+Here are the examples of each output in gif form: 
+
+![Giph of Concert](name-of-giphy.gif)
+
+![Giph of Spotify](name-of-giphy.gif)
+
+![Giph of Movie](name-of-giphy.gif)
+
+![Giph of Do what it Says](name-of-giphy.gif)
