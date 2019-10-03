@@ -21,7 +21,7 @@ LIRI is a Language Interpretation Recognition Interface. LIRI will be a command 
 
 Output: The system will display a list of all of the events and locations where the artist or band will perform. The system will also log this information in the log.txt file. 
 
-![Image of Concert-This](/screenshots/concert-this.png)
+![Image of Concert-This](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/concert-this.PNG?raw=true)
 
 **Example 2:** Run the `spotify-this-song` command
 
@@ -29,7 +29,7 @@ Output: The system will display a list of all of the events and locations where 
 
 Output: The system will diplay the information associated with the song. The system will also log this information in the log.txt file. 
 
-![Image of Spotify-This-Song](/screenshots/spotify-this-song.png)
+![Image of Spotify-This-Song](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/spotify-this-song.PNG?raw=true)
 
 **Example 3:** Run the `movie-this` command
 
@@ -43,4 +43,4 @@ Ouput: The system will display the information associated with the movie that is
 
 Output: The system will read the text in the random.txt file, and perform the comman listed in the random.txt file.
 
-![Image of Do-What-It-Says](/screenshots/do-what-it-says.png)
+![Image of Do-What-It-Says](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/do-what-it-says.PNG?raw=true)
