@@ -644,3 +644,33 @@ Language: undefined
 Plot: undefined
 Actors: undefined
 *****************************
+*********MOVIE INFO*******
+Title: undefined
+Release Year: undefined
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+*********MOVIE INFO*******
+Title: undefined
+Release Year: undefined
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+*****************************
+*********MOVIE INFO*******
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+*****************************

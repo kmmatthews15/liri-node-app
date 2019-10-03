@@ -6,7 +6,7 @@ var fs = require("fs");
 var request = require("request");
 var Spotify = require('node-spotify-api');
 var spotifyKey = new Spotify(keys.spotify);
-var ombKey = keys.omdb.key;
+var omdbKey = keys.omdb.key;
 var bandsKey = keys.bands.id;
 
 
@@ -110,29 +110,29 @@ function showMovieInfo(inputParameter){
         console.log("It's on Netflix!");
         fs.appendFileSync("log.txt", "It's on Netflix!\n");
     }
-    var queryUrl = "http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=" + keys.omdb.key;
+    var queryUrl = "http://www.omdbapi.com/?t=" + inputParameter + "&y=&plot=short&apikey=trilogy";
     request(queryUrl, function(error, response, body) {
         //If the request goes through
         if(!error && response.statusCode === 200) {
         var movies = JSON.parse(body);
         console.log("*********MOVIE INFO*******");
         fs.appendFileSync("log.txt", "*********MOVIE INFO*******\n");
-        console.log("Title: " + movies.title);
-        fs.appendFileSync("log.txt", "Title: " + movies.title + "\n");
-        console.log("Release Year: " + movies.year);
-        fs.appendFileSync("log.txt", "Release Year: " + movies.year + "\n");
+        console.log("Title: " + movies.Title);
+        fs.appendFileSync("log.txt", "Title: " + movies.Title + "\n");
+        console.log("Release Year: " + movies.Year);
+        fs.appendFileSync("log.txt", "Release Year: " + movies.Year + "\n");
         console.log("IMDB Rating: " + movies.imdbRating);
         fs.appendFileSync("log.txt", "IMDB Rating: " + movies.imdbRating + "\n")
         console.log("Rotten Tomatoes Rating: " + getRottenTomatoesRatingValue(movies));
         fs.appendFileSync("log.txt", "Rotten Tomatoes Rating: " + getRottenTomatoesRatingValue(movies) + "\n");
-        console.log("Country of Production: " + movies.country);
-        fs.appendFileSync("log.txt", "Country of Production: " + movies.country + "\n");
-        console.log("Language: " + movies.language);
-        fs.appendFileSync("log.txt", "Language: " + movies.language + "\n");
-        console.log("Plot: " + movies.plot);
-        fs.appendFileSync("log.txt", "Plot: " + movies.plot + "\n");
-        console.log("Actors: " + movies.actors);
-        fs.appendFileSync("log.txt", "Actors: " + movies.actors + "\n");
+        console.log("Country of Production: " + movies.Country);
+        fs.appendFileSync("log.txt", "Country of Production: " + movies.Country + "\n");
+        console.log("Language: " + movies.Language);
+        fs.appendFileSync("log.txt", "Language: " + movies.Language + "\n");
+        console.log("Plot: " + movies.Plot);
+        fs.appendFileSync("log.txt", "Plot: " + movies.Plot + "\n");
+        console.log("Actors: " + movies.Actors);
+        fs.appendFileSync("log.txt", "Actors: " + movies.Actors + "\n");
         console.log("*****************************");  
         fs.appendFileSync("log.txt", "*****************************\n");   
         }else {
