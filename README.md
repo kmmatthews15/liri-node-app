@@ -37,6 +37,8 @@ Output: The system will diplay the information associated with the song. The sys
 
 Ouput: The system will display the information associated with the movie that is inputed. The system will also log this information in the log.txt file. 
 
+![Image of Movie-This](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/movie-this.PNG?raw=true)
+
 **Example 4:** Run the `do-what-it-says` command
 
 `<node liri.js do-what-it-says>`
