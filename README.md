@@ -50,10 +50,8 @@ Output: The system will read the text in the random.txt file, and perform the co
 **Gifs** 
 Here are the examples of each output in gif form: 
 
-![Giph of Concert](name-of-giphy.gif)
+![Giph of Concert](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/ezgif.com-video-to-gif.gif?raw=true)
 
-![Giph of Spotify](name-of-giphy.gif)
+![Giph of Spotify](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/ezgif.com-video-to-gif(2).gif?raw=true)
 
-![Giph of Movie](name-of-giphy.gif)
-
-![Giph of Do what it Says](name-of-giphy.gif)
+![Giph of Movie](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/ezgif.com-video-to-gif(3).gif?raw=true)
