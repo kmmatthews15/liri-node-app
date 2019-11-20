@@ -47,7 +47,7 @@ Output: The system will read the text in the random.txt file, and perform the co
 
 ![Image of Do-What-It-Says](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/do-what-it-says.PNG?raw=true) 
 
-**Gifs** 
+## Gifs
 Here are the examples of each output in gif form: 
 
 ![Giph of Concert](https://github.com/kmmatthews15/liri-node-app/blob/master/screenshots/ezgif.com-video-to-gif.gif?raw=true)
